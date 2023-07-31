@@ -58,4 +58,3 @@ Bibliography:
 
 # Slide 12:
 Thank you for your attention! Now, I'd be happy to address any questions you may have.
-![image](https://github.com/Alexandra376/Transcript-to-presentation/assets/119896011/71f1b8a8-91d8-4121-abbf-fd898221a3ed)
